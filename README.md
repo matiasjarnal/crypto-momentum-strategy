@@ -128,7 +128,7 @@ pip install numpy pandas yfinance matplotlib statsmodels
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/crypto-momentum-strategy
+git clone https://github.com/matiasjarnal/crypto-momentum-strategy
 cd crypto-momentum-strategy
 pip install numpy pandas yfinance matplotlib statsmodels
 jupyter notebook crypto_momentum_strategy.ipynb
